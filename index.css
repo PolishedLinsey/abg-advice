@@ -26,6 +26,7 @@ h1, h2, ul, p {
   text-align: center;
 }
 
-a {
+a[href="https://atlantabg.org/"] {
   text-align: center;
+  position: relative;
 }
