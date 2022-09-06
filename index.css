@@ -29,4 +29,7 @@ h1, h2, ul, p {
 .abg_link {
   text-align: center;
   position: relative;
+  font-weight: 900;
+  font-size: 30px;
+  display: inline-block;
 }
